@@ -1,5 +1,5 @@
 {
- "versionCode": "1.0.0", "url": "https://www.mediafire.com/file/o1bztvf85z47aem/PhilTech+Tunnel+v4.1.apk/file", "Message": "LOGIC VPN\n\n
+ "versionCode": "0.0.0", "url": "https://www.mediafire.com/file/itugpo67w4g2q3j/LOGIC+VPN.apk/file", "Message": "LOGIC VPN\n\n
 
 Features:\n\n
 \n- Secure your connection using SSH tunnel
