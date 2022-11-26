@@ -1,5 +1,5 @@
 {
- "versionCode": "2.0.0", "url": "https://tinypic.host/images/2022/11/14/PhilTech_Logo.png", "Message": "LOGIC VPN\n\n
+ "versionCode": "", "url": "https://tinypic.host/images/2022/11/14/PhilTech_Logo.png", "Message": "LOGIC VPN\n\n
 
 Features:\n\n
 \n- Secure your connection using SSH tunnel
