@@ -1,5 +1,5 @@
 {
- "versionCode": "1", "url": "<img src="https://tinypic.host/images/2022/11/14/PhilTech_Logo.png" alt="PhilTech_Logo.png" border="0" />", "Message": "LOGIC VPN\n\n
+ "versionCode": "", "url": "<img src="https://tinypic.host/images/2022/11/14/PhilTech_Logo.png" alt="PhilTech_Logo.png" border="0" />", "Message": "LOGIC VPN\n\n
 
 Features:\n\n
 \n- Secure your connection using SSH tunnel
